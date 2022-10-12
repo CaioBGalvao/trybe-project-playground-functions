@@ -1,0 +1,27 @@
+{
+  "name": "trye-project-playground-functions",
+  "version": "1.0.0",
+  "description": "#2 Projeto da Trybe",
+  "main": "challenges.js",
+  "scripts": {
+    "EsLint": "npx eslint 'src/**'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioBGalvao/trye-project-playground-functions.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Caio Barbosa Galvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioBGalvao/trye-project-playground-functions/issues"
+  },
+  "homepage": "https://github.com/CaioBGalvao/trye-project-playground-functions#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
