@@ -1,4 +1,4 @@
 # Projeto Playground Functions
 ## Segundo Projeto
 
-Esse projeto foi o treinamento do uso de const e let para determinar atribuição por escopo, além do uso de arrow functions.
+Nesse projeto foi a introdução de Java Script, ainda não sabíamos HOF (High Order Function) ou DOM, então apenas fizemos funções que recebiam parâmetros e retornavam algum resultado.
